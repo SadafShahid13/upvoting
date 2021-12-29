@@ -1,3 +1,4 @@
 # upvoting
-First Initialize with # npm i
-After that start with # npm start
+First Initialize with **npm i**
+
+After that start with **npm start**
